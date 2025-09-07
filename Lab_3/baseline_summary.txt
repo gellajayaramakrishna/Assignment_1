@@ -1,0 +1,63 @@
+Total Bug-Fixing Commits: 2518
+Total Modified Files: 5151
+Total Unique Files: 367
+Average Modified Files per Commit: 2.05
+
+Top 10 Fix Types
+LLM Inference
+add missing comment            236
+add missing comments            86
+add missing doc blocks          45
+add missing docstrings          42
+add missing define              32
+fix bug in test-http-client     29
+add missing license header      23
+fix failing test                22
+fix failing tests               20
+add missing typedef             19
+
+Top 10 Modified Files
+Filename
+platform.c       246
+platform.h       203
+adiv5.c          161
+cortexm.c        127
+Makefile.inc      95
+gdb_main.c        91
+cmsis_dap.c       88
+stlinkv2.c        81
+stm32f1.c         80
+riscv_debug.c     78
+
+Most Modified File Extensions
+Extension
+c                3715
+h                 934
+inc                95
+no_ext             83
+build              71
+md                 70
+ini                44
+py                 35
+yml                22
+ld                 20
+stub               12
+yaml                8
+rules               7
+txt                 6
+cc                  4
+sch                 3
+inf                 3
+pl                  2
+sh                  2
+clang-format        2
+S                   2
+gitmodules          2
+clang-tidy          2
+gitignore           1
+c#                  1
+gdb_history         1
+gitattributes       1
+brd                 1
+s                   1
+in                  1
